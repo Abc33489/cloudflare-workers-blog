@@ -17103,11 +17103,11 @@ body {
 	--theme-hover:#07c
 }
 body>header.header .logo img {
-	max-height:64px
+	max-height:26px
 }
 @media(max-width:767px) {
 	body>header.header .logo img {
-	max-height:26px
+	max-height:64px
 }
 }.entry .entry-video {
 	height:482px
